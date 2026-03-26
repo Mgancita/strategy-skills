@@ -1,5 +1,5 @@
 ---
-name: strategy-quarterly
+name: business-quarterly
 description: Quarterly strategy check-in triggered by "quarterly review", "quarterly check-in", "quarterly planning", "Q1/Q2/Q3/Q4 planning", "quarter review", "90-day plan", or at the start of a new quarter when strategy files exist. Use this for quarterly strategy check-ins that review the business plan for shifts, update focus areas for the quarter, set quarterly outcomes, and flag pace issues against yearly goals.
 ---
 
@@ -15,7 +15,7 @@ Review the business plan for major shifts, refine yearly Core Focus into quarter
 ## Checklist
 
 ### 1. Read Shared References
-- Load `../strategy-shared/references/file-structure.md` and `../strategy-shared/references/markdown-templates.md`
+- Load `../business-shared/references/file-structure.md` and `../business-shared/references/markdown-templates.md`
 - Understand the file conventions and naming patterns.
 
 ### 2. Read Existing Files
@@ -23,8 +23,8 @@ Review the business plan for major shifts, refine yearly Core Focus into quarter
 - Load the current year's core-focus.md and outcomes.md
 - Load the previous quarter's files if they exist
 
-If no business-plan.md exists, redirect to strategy-initial.
-If no yearly files exist, suggest strategy-yearly first.
+If no business-plan.md exists, redirect to business-initial.
+If no yearly files exist, suggest business-yearly first.
 
 ### 3. Previous Quarter Review
 If a prior quarter exists:
@@ -55,7 +55,7 @@ Each quarterly focus should be a sharpened, more specific version of a yearly fo
 Show the refined quarterly focus areas to the user for approval before proceeding.
 
 ### 8. Run Reviewer
-Dispatch `../strategy-shared/reviewers/review-quarterly.md` with the quarterly focus areas for quality check.
+Dispatch `../business-shared/reviewers/review-quarterly.md` with the quarterly focus areas for quality check.
 
 ### 9. Save Quarterly Core Focus
 Save to `strategy/{year}/Q{N}/core-focus.md` with the user's approved quarterly focus areas.

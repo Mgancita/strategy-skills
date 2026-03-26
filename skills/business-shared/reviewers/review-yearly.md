@@ -2,7 +2,7 @@
 
 **Purpose:** Validate that yearly Core Focus and Outcomes are strategically aligned, realistically scoped, and sufficiently detailed to guide quarterly planning.
 
-**Dispatch after:** strategy-yearly completes with yearly Core Focus and Outcomes output.
+**Dispatch after:** business-yearly completes with yearly Core Focus and Outcomes output.
 
 ## Task Tool (General-Purpose)
 

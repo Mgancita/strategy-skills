@@ -1,5 +1,5 @@
 ---
-name: strategy-monthly
+name: business-monthly
 description: Trigger on "monthly check-in", "monthly planning", "plan for this month", "what should I focus on this month", "monthly review", "month ahead", or at the start of a new month when strategy files exist. Use for monthly strategy check-ins that review quarterly focus, set monthly outcomes, and break outcomes into high-level project tasks.
 ---
 
@@ -11,13 +11,13 @@ Monthly check-in that reviews the quarterly Core Focus and Outcomes, sets monthl
 
 ## Hard Gate
 
-Do NOT jump straight to tasks. Monthly outcomes come first, tasks come from outcomes. If there are no quarterly files (core-focus.md and outcomes.md for the current quarter), suggest running strategy-quarterly first, or strategy-initial if nothing exists.
+Do NOT jump straight to tasks. Monthly outcomes come first, tasks come from outcomes. If there are no quarterly files (core-focus.md and outcomes.md for the current quarter), suggest running business-quarterly first, or business-initial if nothing exists.
 
 ## Checklist
 
-1. **Read shared references** - Load `../strategy-shared/references/file-structure.md` and `../strategy-shared/references/markdown-templates.md`
+1. **Read shared references** - Load `../business-shared/references/file-structure.md` and `../business-shared/references/markdown-templates.md`
 2. **Read existing files** - business-plan.md, current quarter's core-focus.md and outcomes.md, and the previous month's files if they exist
-   - If no quarterly files exist, stop and redirect to strategy-quarterly or strategy-initial
+   - If no quarterly files exist, stop and redirect to business-quarterly or business-initial
 3. **Previous month review** - if prior month's outcomes.md and tasks.md exist:
    - Review what was targeted
    - Check off completed items
@@ -30,7 +30,7 @@ Do NOT jump straight to tasks. Monthly outcomes come first, tasks come from outc
    - Each should represent meaningful progress toward the quarterly target
    - Walk through one at a time with the user
 6. **Present and approve Outcomes** - Show the full set; get buy-in before moving forward
-7. **Run reviewer** - Dispatch `../strategy-shared/reviewers/review-monthly.md` to sense-check outcomes against quarterly goals
+7. **Run reviewer** - Dispatch `../business-shared/reviewers/review-monthly.md` to sense-check outcomes against quarterly goals
 8. **Save monthly outcomes.md** - Save to `strategy/{year}/Q{N}/{month-name}/outcomes.md`
 9. **Monthly Tasks/Projects** - Break each outcome into 2–5 high-level project tasks or milestones
    - Not daily to-dos; these are "chunks of work" that might take a few days to a week

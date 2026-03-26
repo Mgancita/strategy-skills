@@ -2,7 +2,7 @@
 
 **Purpose:** Validate that monthly Outcomes and Tasks are measurable and well-connected to quarterly goals, with realistic scope and clear completion criteria.
 
-**Dispatch after:** strategy-monthly completes with monthly Outcomes and Tasks output.
+**Dispatch after:** business-monthly completes with monthly Outcomes and Tasks output.
 
 ## Task Tool (General-Purpose)
 

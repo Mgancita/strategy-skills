@@ -2,7 +2,7 @@
 
 **Purpose:** Validate that weekly tasks are concrete, properly connected to monthly goals, and realistically scoped for the week ahead.
 
-**Dispatch after:** strategy-weekly completes with weekly task breakdown output.
+**Dispatch after:** business-weekly completes with weekly task breakdown output.
 
 ## Task Tool (General-Purpose)
 

@@ -2,7 +2,7 @@
 
 **Purpose:** Validate that daily tasks are properly sourced from the weekly plan, clearly defined, and realistically scoped for the day.
 
-**Dispatch after:** strategy-daily completes with daily task selection output.
+**Dispatch after:** business-daily completes with daily task selection output.
 
 ## Task Tool (General-Purpose)
 

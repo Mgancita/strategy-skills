@@ -2,7 +2,7 @@
 
 **Purpose:** Validate that the Business Plan and Core Focus are strategically sound and sufficiently clear to guide downstream planning.
 
-**Dispatch after:** strategy-initial completes with Business Plan and initial Core Focus output.
+**Dispatch after:** business-initial completes with Business Plan and initial Core Focus output.
 
 ## Task Tool (General-Purpose)
 

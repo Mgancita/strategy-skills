@@ -19,7 +19,7 @@ This is a conversation, not a form. We'll go one question at a time, and I'll pr
 
 ## Checklist
 
-- [ ] Read shared references: `../strategy-shared/references/file-structure.md` and `../strategy-shared/references/markdown-templates.md`
+- [ ] Read shared references: `../business-shared/references/file-structure.md` and `../business-shared/references/markdown-templates.md`
 - [ ] Check if you've already created a Business Plan (if so, skip to periodic review)
 - [ ] Work through Business Plan questions one at a time
 - [ ] Infer your business type from context (don't ask you to classify it)
@@ -28,7 +28,7 @@ This is a conversation, not a form. We'll go one question at a time, and I'll pr
 - [ ] Create strategy directory and save business-plan.md
 - [ ] Walk through 3-5 Core Focus areas for your first period
 - [ ] Present Core Focus and get approval
-- [ ] Run reviewer: dispatch `../strategy-shared/reviewers/review-initial.md` to validate plan and focus areas
+- [ ] Run reviewer: dispatch `../business-shared/reviewers/review-initial.md` to validate plan and focus areas
 - [ ] Save core-focus.md to the right nested path (e.g., `strategy/2026/core-focus.md`)
 - [ ] Route you to the next skill based on your business type
 
@@ -133,7 +133,7 @@ Once we're done, I'll recommend your next skill based on what you've told me:
 → "Let's do a monthly check-in every first week of the month to track outcomes"
 
 **Established business or larger org:**
-→ "Let's do a yearly planning session to set your annual focus and outcomes" (use strategy-yearly)
+→ "Let's do a yearly planning session to set your annual focus and outcomes" (use business-yearly)
 → Or if mid-year: "Let's do a quarterly check-in to set outcomes for the current quarter"
 
 **Time-bound project:**

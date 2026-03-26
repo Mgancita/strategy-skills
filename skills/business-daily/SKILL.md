@@ -1,5 +1,5 @@
 ---
-name: strategy-daily
+name: business-daily
 description: Triggers on morning/start-of-day planning requests like "daily check-in", "what should I do today", "plan my day", "today's tasks", "morning check-in", "start my day", or similar. Runs a quick 2-5 minute daily standup that reviews weekly tasks, sets 2-5 specific actions for today, and checks off yesterday's completions.
 ---
 
@@ -11,8 +11,8 @@ Quick daily standup. Review yesterday, propose today's tasks, confirm, move on. 
 
 Before starting, check:
 - **Weekly tasks exist?** Look for `tasks.md` in the current week's strategy folder. If not found, check for a monthly `tasks.md`.
-- **No weekly file?** Suggest running `strategy-weekly` first to set up the week.
-- **No strategy files at all?** Suggest `strategy-initial` to bootstrap the system.
+- **No weekly file?** Suggest running `business-weekly` first to set up the week.
+- **No strategy files at all?** Suggest `business-initial` to bootstrap the system.
 
 If the user is asking strategic questions (e.g., "Should I pivot my whole approach?" or "What's my actual goal?"), acknowledge and redirect: *"That's a great question, but it's bigger than the daily standup. Let's save that for your weekly check-in."*
 
@@ -26,7 +26,7 @@ If the user is asking strategic questions (e.g., "Should I pivot my whole approa
 
 4. **Quick gut check** (30 seconds) - *"Anything else on your plate today—meetings, appointments, energy constraints?"* Adjust the task list if needed. Keep it brief.
 
-5. **Run reviewer** - Dispatch `../strategy-shared/reviewers/review-daily.md` to quick-check task selection
+5. **Run reviewer** - Dispatch `../business-shared/reviewers/review-daily.md` to quick-check task selection
 6. **Update the file** - Modify the weekly `tasks.md` directly. Add or update today's section with the agreed tasks. Don't create a separate daily file.
 
 7. **Send them off** (1 sentence) - Brief encouragement + one-sentence reminder of how today connects to the bigger picture.

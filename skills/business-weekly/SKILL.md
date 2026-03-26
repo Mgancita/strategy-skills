@@ -1,5 +1,5 @@
 ---
-name: strategy-weekly
+name: business-weekly
 description: Triggers on "weekly check-in", "weekly planning", "plan my week", "what should I do this week", "weekly review", "week ahead", "start of week", or on Mondays/Sundays when strategy files exist. Use this for weekly strategy check-ins that review monthly tasks, break them into weekly work chunks, check off last week's completions, and flag blockers.
 ---
 
@@ -9,19 +9,19 @@ description: Triggers on "weekly check-in", "weekly planning", "plan my week", "
 Weekly check-in that reviews the monthly tasks and outcomes, breaks monthly projects into concrete weekly work chunks, checks off completed items from last week, and flags blockers or scope issues. This is where projects become specific deliverables.
 
 ## Hard Gate
-Do NOT skip the review of last week. Checking off completions and acknowledging progress is important for momentum. If no monthly files exist, suggest running strategy-monthly first.
+Do NOT skip the review of last week. Checking off completions and acknowledging progress is important for momentum. If no monthly files exist, suggest running business-monthly first.
 
 ## Checklist
 
-1. **Read shared references** - Load `../strategy-shared/references/file-structure.md` and `../strategy-shared/references/markdown-templates.md`
-2. **Read existing files** - Load current month's outcomes.md and tasks.md, plus last week's tasks.md if it exists. If no monthly files, redirect to strategy-monthly
+1. **Read shared references** - Load `../business-shared/references/file-structure.md` and `../business-shared/references/markdown-templates.md`
+2. **Read existing files** - Load current month's outcomes.md and tasks.md, plus last week's tasks.md if it exists. If no monthly files, redirect to business-monthly
 3. **Last week review** - Go through each task from the previous week. For each: is it done, partially done, or not started? Check off completed items. For incomplete items: "This didn't get done. What happened? Should it carry forward, get revised, or get dropped?"
 4. **Monthly pace check** - Based on which week of the month we're in, are we on track for monthly outcomes? If it's week 3 and only 25% through a monthly outcome, flag it
 5. **Weekly goals** - Ask: "What would make this a good week? In 2-3 sentences, what do you want to be true by Friday?" This is the qualitative gut-check before diving into specific tasks
 6. **Weekly task breakdown** - Take the monthly projects and break them into this week's specific work. For each active monthly project: "What specifically can you accomplish on [project] this week?" These should be concrete deliverables or actions, not vague "work on X"
 7. **Daily distribution (optional)** - Ask: "Want to roughly map these to days, or keep it as a weekly pool?" Some people find this helpful, others don't
 8. **Present and approve the week** - Review what we've planned together
-9. **Run reviewer** - Dispatch `../strategy-shared/reviewers/review-weekly.md`
+9. **Run reviewer** - Dispatch `../business-shared/reviewers/review-weekly.md`
 10. **Save weekly tasks.md** - Write to `strategy/{year}/Q{N}/{month}/W{N}/tasks.md`
 11. **Mention daily check-ins** - Let them know they can do quick daily check-ins to pick tasks for each day
 
