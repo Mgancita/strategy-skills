@@ -15,7 +15,7 @@ Review the business plan for major shifts, refine yearly Core Focus into quarter
 ## Checklist
 
 ### 1. Read Shared References
-- Load `../business-shared/references/file-structure.md` and `../business-shared/references/markdown-templates.md`
+- Load `./references/file-structure.md` and `./references/markdown-templates.md`
 - Understand the file conventions and naming patterns.
 
 ### 2. Read Existing Files
@@ -55,7 +55,7 @@ Each quarterly focus should be a sharpened, more specific version of a yearly fo
 Show the refined quarterly focus areas to the user for approval before proceeding.
 
 ### 8. Run Reviewer
-Dispatch `../business-shared/reviewers/review-quarterly.md` with the quarterly focus areas for quality check.
+Dispatch `./reviewers/review-quarterly.md` with the quarterly focus areas for quality check.
 
 ### 9. Save Quarterly Core Focus
 Save to `strategy/{year}/Q{N}/core-focus.md` with the user's approved quarterly focus areas.

@@ -34,7 +34,7 @@ Don't force all three horizons for every area. If someone only has a clear pictu
 
 ## Checklist
 
-1. **Read shared references** - Load `../life-shared/references/life-file-structure.md` and `../life-shared/references/life-templates.md`
+1. **Read shared references** - Load `./references/life-file-structure.md` and `./references/life-templates.md`
 2. **Check for existing files** - If life-vision.md already exists, suggest a monthly check-in instead
 3. **Set the tone** - Start with something like: "Let's think about what you actually want from your life across a few key areas. We'll set real goals and talk through how to get there, but this should feel like a conversation, not a form."
 4. **Explore each area one at a time** - Ask what they want, listen, probe deeper. One question per message.
@@ -44,7 +44,7 @@ Don't force all three horizons for every area. If someone only has a clear pictu
 8. **Look for themes** - Notice what comes up across areas. If "more time for myself" appears in health, growth, AND relationships, name it.
 9. **Present summary** - Show them what you heard: goals, timelines, and initial plans for each area.
 10. **Get approval** - Make sure it feels right to them. Adjust as needed.
-11. **Run reviewer** - Dispatch `../life-shared/reviewers/review-life-initial.md`
+11. **Run reviewer** - Dispatch `./reviewers/review-life-initial.md`
 12. **Save life-vision.md** - Write to `life-strategy/life-vision.md`
 13. **Suggest first monthly check-in** - They can come back in a month to track progress and set new intentions.
 
@@ -83,4 +83,4 @@ This doesn't need to be exhaustive. The point is to make goals feel achievable r
 
 ## File Output
 
-Save to `life-strategy/life-vision.md` using the template from `../life-shared/references/life-templates.md`.
+Save to `life-strategy/life-vision.md` using the template from `./references/life-templates.md`.

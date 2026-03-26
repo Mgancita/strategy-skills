@@ -15,7 +15,7 @@ Do NOT jump straight to tasks. Monthly outcomes come first, tasks come from outc
 
 ## Checklist
 
-1. **Read shared references** - Load `../business-shared/references/file-structure.md` and `../business-shared/references/markdown-templates.md`
+1. **Read shared references** - Load `./references/file-structure.md` and `./references/markdown-templates.md`
 2. **Read existing files** - business-plan.md, current quarter's core-focus.md and outcomes.md, and the previous month's files if they exist
    - If no quarterly files exist, stop and redirect to business-quarterly or business-initial
 3. **Previous month review** - if prior month's outcomes.md and tasks.md exist:
@@ -30,7 +30,7 @@ Do NOT jump straight to tasks. Monthly outcomes come first, tasks come from outc
    - Each should represent meaningful progress toward the quarterly target
    - Walk through one at a time with the user
 6. **Present and approve Outcomes** - Show the full set; get buy-in before moving forward
-7. **Run reviewer** - Dispatch `../business-shared/reviewers/review-monthly.md` to sense-check outcomes against quarterly goals
+7. **Run reviewer** - Dispatch `./reviewers/review-monthly.md` to sense-check outcomes against quarterly goals
 8. **Save monthly outcomes.md** - Save to `strategy/{year}/Q{N}/{month-name}/outcomes.md`
 9. **Monthly Tasks/Projects** - Break each outcome into 2–5 high-level project tasks or milestones
    - Not daily to-dos; these are "chunks of work" that might take a few days to a week

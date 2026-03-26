@@ -17,7 +17,7 @@ This skill guides a deep annual review of your entire strategy. You'll examine w
 
 Before we begin:
 
-1. **Read shared references** — I'll load the file structure guide and markdown templates from `../business-shared/references/` to ensure consistency
+1. **Read shared references** — I'll load the file structure guide and markdown templates from `./references/` to ensure consistency
 2. **Load existing strategy files** — I'll read your current `strategy/business-plan.md` and any prior year outcomes files
 3. **Check for completeness** — If no business plan exists yet, I'll redirect you to the business-initial skill first
 4. **Pull previous year's outcomes** — If prior year outcomes exist, we'll review them together and celebrate what hit
@@ -61,7 +61,7 @@ I'll dispatch the yearly review validator to check that your focus areas are coh
 
 ### 6. Save Core Focus
 
-Once approved, your core focus goes to `strategy/{year}/core-focus.md` using the Core Focus template from `../business-shared/references/markdown-templates.md` (with `period: yearly` and the correct year in frontmatter). This becomes your North Star for the year.
+Once approved, your core focus goes to `strategy/{year}/core-focus.md` using the Core Focus template from `./references/markdown-templates.md` (with `period: yearly` and the correct year in frontmatter). This becomes your North Star for the year.
 
 ### 7. Set Yearly Outcomes (SMART Goals)
 

@@ -26,7 +26,7 @@ If the user is asking strategic questions (e.g., "Should I pivot my whole approa
 
 4. **Quick gut check** (30 seconds) - *"Anything else on your plate today—meetings, appointments, energy constraints?"* Adjust the task list if needed. Keep it brief.
 
-5. **Run reviewer** - Dispatch `../business-shared/reviewers/review-daily.md` to quick-check task selection
+5. **Run reviewer** - Dispatch `./reviewers/review-daily.md` to quick-check task selection
 6. **Update the file** - Modify the weekly `tasks.md` directly. Add or update today's section with the agreed tasks. Don't create a separate daily file.
 
 7. **Send them off** (1 sentence) - Brief encouragement + one-sentence reminder of how today connects to the bigger picture.

@@ -19,7 +19,7 @@ This is a conversation, not a form. We'll go one question at a time, and I'll pr
 
 ## Checklist
 
-- [ ] Read shared references: `../business-shared/references/file-structure.md` and `../business-shared/references/markdown-templates.md`
+- [ ] Read shared references: `./references/file-structure.md` and `./references/markdown-templates.md`
 - [ ] Check if you've already created a Business Plan (if so, skip to periodic review)
 - [ ] Work through Business Plan questions one at a time
 - [ ] Infer your business type from context (don't ask you to classify it)
@@ -28,7 +28,7 @@ This is a conversation, not a form. We'll go one question at a time, and I'll pr
 - [ ] Create strategy directory and save business-plan.md
 - [ ] Walk through 3-5 Core Focus areas for your first period
 - [ ] Present Core Focus and get approval
-- [ ] Run reviewer: dispatch `../business-shared/reviewers/review-initial.md` to validate plan and focus areas
+- [ ] Run reviewer: dispatch `./reviewers/review-initial.md` to validate plan and focus areas
 - [ ] Save core-focus.md to the right nested path (e.g., `strategy/2026/core-focus.md`)
 - [ ] Route you to the next skill based on your business type
 

@@ -30,7 +30,7 @@ Keep this focused and quick. Not a deep life review -- that's monthly. If someon
    - Be realistic for one week
    - Examples: "Go to the gym 3 times," "Have that conversation with my manager," "Finish chapter 5 of the book," "Meal prep on Sunday"
 
-6. **Run reviewer** - Dispatch `../life-shared/reviewers/review-life-weekly.md`
+6. **Run reviewer** - Dispatch `./reviewers/review-life-weekly.md`
 
 7. **Save weekly file** - Write to `life-strategy/{year}/{month-name}/week-{N}.md`
 

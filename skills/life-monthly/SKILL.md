@@ -13,7 +13,7 @@ If no `life-vision.md` exists, suggest running `life-initial` first. Without kno
 
 ## Checklist
 
-1. **Read existing files** - Load `../life-shared/references/life-file-structure.md` and `../life-shared/references/life-templates.md`. Read `life-strategy/life-vision.md` and last month's check-in if it exists.
+1. **Read existing files** - Load `./references/life-file-structure.md` and `./references/life-templates.md`. Read `life-strategy/life-vision.md` and last month's check-in if it exists.
 
 2. **Celebrate wins first** - Start here, always. "Before we look at what's next, what went well this month? What are you proud of, even if it's small?" Genuinely acknowledge what they share. Connect it to their goals if relevant: "You said you wanted to cook more at home, and you did it 3 times a week. That's real progress."
 
@@ -34,7 +34,7 @@ If no `life-vision.md` exists, suggest running `life-initial` first. Without kno
 
 7. **Present and approve** - Show the full picture: completed items, carried items, new goals. Get buy-in.
 
-8. **Run reviewer** - Dispatch `../life-shared/reviewers/review-life-monthly.md`
+8. **Run reviewer** - Dispatch `./reviewers/review-life-monthly.md`
 
 9. **Save monthly file** - Write to `life-strategy/{year}/{month-name}/check-in.md`
 
@@ -72,4 +72,4 @@ Dropping goals is fine. Life changes. What matters is the decision is conscious.
 
 ## File Output
 
-Save to `life-strategy/{year}/{month-name}/check-in.md` using the template from `../life-shared/references/life-templates.md`.
+Save to `life-strategy/{year}/{month-name}/check-in.md` using the template from `./references/life-templates.md`.

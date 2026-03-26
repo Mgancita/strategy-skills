@@ -13,7 +13,7 @@ Do NOT skip the review of last week. Checking off completions and acknowledging 
 
 ## Checklist
 
-1. **Read shared references** - Load `../business-shared/references/file-structure.md` and `../business-shared/references/markdown-templates.md`
+1. **Read shared references** - Load `./references/file-structure.md` and `./references/markdown-templates.md`
 2. **Read existing files** - Load current month's outcomes.md and tasks.md, plus last week's tasks.md if it exists. If no monthly files, redirect to business-monthly
 3. **Last week review** - Go through each task from the previous week. For each: is it done, partially done, or not started? Check off completed items. For incomplete items: "This didn't get done. What happened? Should it carry forward, get revised, or get dropped?"
 4. **Monthly pace check** - Based on which week of the month we're in, are we on track for monthly outcomes? If it's week 3 and only 25% through a monthly outcome, flag it
@@ -21,7 +21,7 @@ Do NOT skip the review of last week. Checking off completions and acknowledging 
 6. **Weekly task breakdown** - Take the monthly projects and break them into this week's specific work. For each active monthly project: "What specifically can you accomplish on [project] this week?" These should be concrete deliverables or actions, not vague "work on X"
 7. **Daily distribution (optional)** - Ask: "Want to roughly map these to days, or keep it as a weekly pool?" Some people find this helpful, others don't
 8. **Present and approve the week** - Review what we've planned together
-9. **Run reviewer** - Dispatch `../business-shared/reviewers/review-weekly.md`
+9. **Run reviewer** - Dispatch `./reviewers/review-weekly.md`
 10. **Save weekly tasks.md** - Write to `strategy/{year}/Q{N}/{month}/W{N}/tasks.md`
 11. **Mention daily check-ins** - Let them know they can do quick daily check-ins to pick tasks for each day
 
