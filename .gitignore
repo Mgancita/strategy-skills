@@ -1,0 +1,3 @@
+*.plugin
+*.plugin.old
+.DS_Store

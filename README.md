@@ -10,12 +10,12 @@ Strategy files are saved in `strategy/` organized by year, quarter, month, and w
 
 ### Skills
 
-- **strategy-initial** -- First-time setup. Build your Business Plan and Core Focus areas. ("I have a business idea", "help me plan my business")
-- **strategy-yearly** -- Deep annual review of vision, focus, and outcomes. ("yearly review", "annual planning")
-- **strategy-quarterly** -- Check business plan for shifts, set quarterly targets with pace tracking. ("quarterly check-in", "Q2 planning")
-- **strategy-monthly** -- Set monthly outcomes and break them into project-level tasks. ("monthly check-in", "plan for this month")
-- **strategy-weekly** -- Break monthly projects into weekly deliverables. ("plan my week", "weekly check-in")
-- **strategy-daily** -- Fast 3-minute standup. Propose, confirm, done. ("what should I do today?", "morning check-in")
+- **business-initial** -- First-time setup. Build your Business Plan and Core Focus areas. ("I have a business idea", "help me plan my business")
+- **business-yearly** -- Deep annual review of vision, focus, and outcomes. ("yearly review", "annual planning")
+- **business-quarterly** -- Check business plan for shifts, set quarterly targets with pace tracking. ("quarterly check-in", "Q2 planning")
+- **business-monthly** -- Set monthly outcomes and break them into project-level tasks. ("monthly check-in", "plan for this month")
+- **business-weekly** -- Break monthly projects into weekly deliverables. ("plan my week", "weekly check-in")
+- **business-daily** -- Fast 3-minute standup. Propose, confirm, done. ("what should I do today?", "morning check-in")
 
 ## Life Strategy
 
